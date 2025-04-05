@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72FC2143-5A96-471D-B3FD-8CF8BBB21270}|Variable\\Variable.csproj|c:\\users\\administrator\\desktop\\consolegame\\variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|solutionrelative:20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC2143-5A96-471D-B3FD-8CF8BBB21270}|Variable\\Variable.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC2143-5A96-471D-B3FD-8CF8BBB21270}|Variable\\Variable.csproj|solutionrelative:variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB822391-297F-40E2-A87B-FA2ADE91BECB}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\administrator\\desktop\\consolegame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB822391-297F-40E2-A87B-FA2ADE91BECB}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB822391-297F-40E2-A87B-FA2ADE91BECB}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,22 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\Variable\\Program.cs",
-              "RelativeDocumentMoniker": "Variable\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\Variable\\Program.cs",
-              "RelativeToolTip": "Variable\\Program.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAQwG8AAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Program.cs",
+              "RelativeDocumentMoniker": "20250405\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Program.cs",
+              "RelativeToolTip": "20250405\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:24:01.31Z",
+              "WhenOpened": "2025-04-05T08:29:53.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\ConsoleGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\Program.cs",
+              "RelativeDocumentMoniker": "Variable\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\Program.cs",
+              "RelativeToolTip": "Variable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:24:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\ConsoleGame\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\ConsoleGame\\Program.cs",
               "RelativeToolTip": "ConsoleGame\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

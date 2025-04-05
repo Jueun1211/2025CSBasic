@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\Variable\\Variable.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\Variable.csproj",
       "projectName": "Variable",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\Variable\\Variable.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\Variable.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\ConsoleGame\\Variable\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
