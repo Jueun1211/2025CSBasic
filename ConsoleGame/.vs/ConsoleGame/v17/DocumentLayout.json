@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|solutionrelative:20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C60D69BD-A07B-4E49-842F-900A36E5FAD3}|20250419\\20250419.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250419\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D69BD-A07B-4E49-842F-900A36E5FAD3}|20250419\\20250419.csproj|solutionrelative:20250419\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D69BD-A07B-4E49-842F-900A36E5FAD3}|20250419\\20250419.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250419\\scen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D69BD-A07B-4E49-842F-900A36E5FAD3}|20250419\\20250419.csproj|solutionrelative:20250419\\scen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250405\\scen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|solutionrelative:20250405\\scen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|solutionrelative:20250405\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B35952C2-C627-40E2-B918-7005EA6462C3}|20250405\\20250405.csproj|c:\\users\\administrator\\desktop\\2025csbasic\\consolegame\\20250405\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Scen.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250419\\Scen.cs",
+              "RelativeDocumentMoniker": "20250419\\Scen.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250419\\Scen.cs",
+              "RelativeToolTip": "20250419\\Scen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:14:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250419\\Program.cs",
+              "RelativeDocumentMoniker": "20250419\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250419\\Program.cs",
+              "RelativeToolTip": "20250419\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:03:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Player.cs",
               "RelativeDocumentMoniker": "20250405\\Player.cs",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "20250405\\Player.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T07:33:17.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T07:33:17.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Enemy.cs",
               "RelativeDocumentMoniker": "20250405\\Enemy.cs",
@@ -59,25 +92,24 @@
               "RelativeToolTip": "20250405\\Enemy.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAnwBwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T07:20:06.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T07:20:06.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Scen.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Scen.cs",
               "RelativeDocumentMoniker": "20250405\\Scen.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Scen.cs",
               "RelativeToolTip": "20250405\\Scen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T06:01:22.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\20250405\\Program.cs",
               "RelativeDocumentMoniker": "20250405\\Program.cs",
@@ -90,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\Variable\\Program.cs",
               "RelativeDocumentMoniker": "Variable\\Program.cs",
@@ -98,12 +130,11 @@
               "RelativeToolTip": "Variable\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:24:01.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:24:01.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\2025CSBasic\\ConsoleGame\\ConsoleGame\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
@@ -111,8 +142,7 @@
               "RelativeToolTip": "ConsoleGame\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwDMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:21:06.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:21:06.611Z"
             }
           ]
         }
